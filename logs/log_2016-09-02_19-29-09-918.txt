@@ -1,0 +1,6 @@
+2016.9.02-19.29.09: League = SPL
+2016.9.02-19.29.09: Game type = round robin
+2016.9.02-19.29.09: Auto color change = false
+2016.9.02-19.29.09: Using broadcast address 255.255.255.0
+2016.9.02-19.29.09: B-Human (Black) vs Invisibles (Red)
+2016.9.02-19.29.12: Ready

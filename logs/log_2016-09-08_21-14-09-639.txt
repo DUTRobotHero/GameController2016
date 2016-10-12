@@ -1,0 +1,12 @@
+2016.9.08-21.14.09: League = SPL
+2016.9.08-21.14.09: Game type = round robin
+2016.9.08-21.14.09: Auto color change = false
+2016.9.08-21.14.09: Using broadcast address 255.255.255.255
+2016.9.08-21.14.09: B-Human (Black) vs Austrian Kangaroos (Red)
+2016.9.08-21.14.20: Ready
+2016.9.08-21.14.23: Set
+2016.9.08-21.14.26: Playing
+2016.9.08-21.15.21: Finished
+2016.9.08-21.20.21: 2nd Half
+2016.9.08-21.27.13: Unpenalised Black 2
+2016.9.08-21.27.20: Shutdown GameController

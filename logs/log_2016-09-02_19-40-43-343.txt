@@ -1,0 +1,39 @@
+2016.9.02-19.40.43: League = SPL
+2016.9.02-19.40.43: Game type = round robin
+2016.9.02-19.40.43: Auto color change = false
+2016.9.02-19.40.43: Using broadcast address 255.255.255.255
+2016.9.02-19.40.43: B-Human (Black) vs Invisibles (Red)
+2016.9.02-19.44.04: Ready
+2016.9.02-19.44.50: Set
+2016.9.02-20.03.00: Undo 1 States to Ready
+2016.9.02-20.03.00: Set
+2016.9.02-20.03.02: Undo 2 States to B-Human (Black) vs Invisibles (Red)
+2016.9.02-20.03.10: Ready
+2016.9.02-20.03.32: Set
+2016.9.02-20.03.34: Playing
+2016.9.02-20.03.36: Finished
+2016.9.02-20.03.40: Undo 1 States to Playing
+2016.9.02-20.03.41: Undo 1 States to Set
+2016.9.02-20.03.42: Undo 1 States to Ready
+2016.9.02-20.03.43: Undo 1 States to B-Human (Black) vs Invisibles (Red)
+2016.9.02-20.04.13: Ready
+2016.9.02-20.04.58: Set
+2016.9.02-20.09.04: Undo 1 States to Ready
+2016.9.02-20.09.04: Set
+2016.9.02-20.09.05: Undo 1 States to Ready
+2016.9.02-20.09.06: Set
+2016.9.02-20.09.07: Undo 2 States to B-Human (Black) vs Invisibles (Red)
+2016.9.02-20.09.09: Ready
+2016.9.02-20.09.37: Undo 1 States to B-Human (Black) vs Invisibles (Red)
+2016.9.02-20.09.41: Ready
+2016.9.02-20.09.46: Set
+2016.9.02-20.09.48: Playing
+2016.9.02-20.09.51: Finished
+2016.9.02-20.09.53: 2nd Half
+2016.9.02-20.09.54: Ready
+2016.9.02-20.09.55: Set
+2016.9.02-20.09.55: Playing
+2016.9.02-20.09.56: Finished
+2016.9.02-20.09.59: Undo 7 States to Set
+2016.9.02-20.10.00: Undo 2 States to B-Human (Black) vs Invisibles (Red)
+2016.9.02-20.21.21: Shutdown GameController

@@ -1,0 +1,10 @@
+2016.9.08-21.12.34: League = SPL
+2016.9.08-21.12.34: Game type = round robin
+2016.9.08-21.12.34: Auto color change = false
+2016.9.08-21.12.34: Using broadcast address 255.255.255.255
+2016.9.08-21.12.34: B-Human (Black) vs Berlin United (Red)
+2016.9.08-21.12.53: Ready
+2016.9.08-21.12.56: Set
+2016.9.08-21.12.59: Playing
+2016.9.08-21.13.11: Finished
+2016.9.08-21.13.53: Shutdown GameController

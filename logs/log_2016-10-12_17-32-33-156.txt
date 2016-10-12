@@ -1,0 +1,5 @@
+2016.10.12-17.32.33: League = SPL
+2016.10.12-17.32.33: Game type = round robin
+2016.10.12-17.32.33: Auto color change = false
+2016.10.12-17.32.33: Using broadcast address 255.255.255.255
+2016.10.12-17.32.33: DUTRobotHero (Blue) vs Austrian Kangaroos (Red)

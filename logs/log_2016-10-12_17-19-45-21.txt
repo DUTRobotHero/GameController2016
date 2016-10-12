@@ -1,0 +1,5 @@
+2016.10.12-17.19.45: League = SPL
+2016.10.12-17.19.45: Game type = round robin
+2016.10.12-17.19.45: Auto color change = false
+2016.10.12-17.19.45: Using broadcast address 255.255.255.255
+2016.10.12-17.19.45: DUTRobotHero (Blue) vs B-Human (Black)

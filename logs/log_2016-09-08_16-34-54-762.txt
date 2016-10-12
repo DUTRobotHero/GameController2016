@@ -1,0 +1,5 @@
+2016.9.08-16.34.54: League = SPL
+2016.9.08-16.34.54: Game type = round robin
+2016.9.08-16.34.54: Auto color change = false
+2016.9.08-16.34.54: Using broadcast address 255.255.255.255
+2016.9.08-16.34.54: Austrian Kangaroos (Blue) vs Berlin United (Red)
