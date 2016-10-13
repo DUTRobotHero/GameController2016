@@ -1,0 +1,16 @@
+2016.6.27-10.16.14: League = SPL
+2016.6.27-10.16.14: Game type = round robin
+2016.6.27-10.16.14: Auto color change = false
+2016.6.27-10.16.14: Using broadcast address /192.168.42.255
+2016.6.27-10.16.14: Listening on address /192.168.42.108
+2016.6.27-10.16.14: Austrian Kangaroos (Blue) vs Invisibles (Red)
+2016.6.27-10.16.16: Ready
+2016.6.27-10.16.16: Set
+2016.6.27-10.16.16: Playing
+2016.6.27-10.16.19: Player Pushing Blue 2
+2016.6.27-10.16.20: Player Pushing Blue 3
+2016.6.27-10.16.21: Player Pushing Blue 4
+2016.6.27-10.16.21: Player Pushing Blue 5
+2016.6.27-10.16.24: Leaving Player Blue 5
+2016.6.27-10.16.24: Entering Player Blue 6
+2016.6.27-10.16.31: Shutdown GameController

@@ -1,0 +1,21 @@
+2016.10.13-18.06.21: League = SPL
+2016.10.13-18.06.21: Game type = round robin
+2016.10.13-18.06.21: Auto color change = false
+2016.10.13-18.06.21: Using broadcast address /10.0.255.255
+2016.10.13-18.06.21: Listening on address /10.0.5.103
+2016.10.13-18.06.21: DUTRobotHero (Blue) vs B-Human (Black)
+2016.10.13-18.06.34: Unpenalised Black 3
+2016.10.13-18.06.36: Ready
+2016.10.13-18.06.40: Set
+2016.10.13-18.06.50: Playing
+2016.10.13-18.07.24: Undo 2 States to Ready
+2016.10.13-18.07.26: Set
+2016.10.13-18.07.44: Playing
+2016.10.13-18.08.05: Undo 1 States to Set
+2016.10.13-18.09.21: Playing
+2016.10.13-18.09.39: Undo 1 States to Set
+2016.10.13-18.12.28: Playing
+2016.10.13-18.20.19: Manually Penalised Black 3
+2016.10.13-18.20.19: Manually Unpenalised Black 3
+2016.10.13-18.26.08: Finished
+2016.10.13-18.29.59: Shutdown GameController
